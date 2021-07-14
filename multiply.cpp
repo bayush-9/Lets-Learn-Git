@@ -6,7 +6,7 @@
 using namespace std; 
 int main() 
 {
-    int a=5,b=0;
+    int a=5,b=11;
     cout<<a*b;
     return 0;
 }   
